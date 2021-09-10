@@ -8,7 +8,7 @@
 -  🥇 I do my best to use my knowledge in the best way possibles;
 -  📦 This repository is dedicated to my personal and Trybe projects;
 -  🤓 Learning and education lover;
--  📫 Please, send an e-mail to: contatoluiz_henrique@outlook.com to reach me;
+-  📫 Please, contact me at: contatoluiz_henrique@outlook.com;
 
   ##
 
