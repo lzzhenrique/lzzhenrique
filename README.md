@@ -1,21 +1,26 @@
-### Hello! My name is Luiz.
+<div align="left" >
+  <h1> Hello! My name is Luiz. </h1>
+</div
 
-  
-  ##
-
--  📖 I am currently a student of the Trybe course since April 2021;
--  🥇 I do my best to use my knowledge in the best way possibles;
--  📦 This repository is dedicated to my personal and Trybe projects;
--  🤓 Learning and education lover;
--  📫 Please, contact me at: luizshenrique@outlook.com.br;
-
-  ##
-
- <div>
-  <a href="https://github.com/lzzhenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lzzhenrique&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=stars,issues"/>
+<div>
+  <div align="left">
+    <a href="https://github.com/lzzhenrique">
+    <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=lzzhenrique&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=stars,issues"/>
+  </div>
 </div>
   
+  ##
+  
+<div align="left">
+    <ul>
+      <li> 📖 I am currently a student of the Trybe course since April 2021; </li>
+      <li> 🥇 I do my best to use my knowledge in the best way possibles; </li>
+      <li> 📦 This repository is dedicated to my personal and Trybe projects; </li>
+      <li> 🤓 Learning and education lover; </li>
+      <li> 📫 Please, contact me at: luizshenrique@outlook.com.br; </li>
+    </ul>
+</div>
+
   ##
 
 <div style="display: inline_block"><br>
