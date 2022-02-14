@@ -1,6 +1,5 @@
 ### Hello! My name is Luiz.
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" width="400px" />
   
   ##
 
@@ -31,8 +30,6 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="60" />
   <img align="center" alt="Luiz-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
 
 </div>
   
