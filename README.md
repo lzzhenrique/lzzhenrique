@@ -6,12 +6,13 @@
 
 <div height="200px">
   <div align="left">
-    <a href="https://github.com/lzzhenrique">
     <img align="right" height="150px"  src="https://github-readme-stats.vercel.app/api?username=lzzhenrique&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=stars,issues"/>
   </div>
+    
+
   <div align="left">
     <ul>
-      <li>  <p>📖 I am currently a student of the Trybe course since April 2021;</p> </li>
+      <li>📖 I am currently a student of the Trybe course since April 2021;</li> 
       <li>  <p>🥇 I do my best to use my knowledge in the best way possibles;</p> </li>
       <li>  <p>📦 This repository is dedicated to my personal and Trybe projects;</p> </li>
       <li>  <p>🤓 Learning and education lover;</p> </li>
@@ -19,8 +20,6 @@
   </div>
 </div>
   
-  <br>
-  <br>
   <br>
   <br>
   
@@ -33,9 +32,6 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="60" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="50" width="60"  />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="60"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="60" />
-  <img align="center" alt="Luiz-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luiz-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   <br>
