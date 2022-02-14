@@ -14,7 +14,6 @@
       <li> 🥇 I do my best to use my knowledge in the best way possibles; </li>
       <li> 📦 This repository is dedicated to my personal and Trybe projects; </li>
       <li> 🤓 Learning and education lover; </li>
-      <li> 📫 Please, contact me at: luizshenrique@outlook.com.br; </li>
     </ul>
 </div>
 
